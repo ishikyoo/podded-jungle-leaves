@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 13,
+    "supported_formats": {
+      "min_inclusive": 13,
+      "max_inclusive": 99
+    },
+    "description": "Leavesly jungle leaves with cocoa pods."
+  }
+}
